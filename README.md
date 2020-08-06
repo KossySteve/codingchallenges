@@ -1,2 +1,2 @@
-# codingchallenges
-## Here you will find solutions to several coding challenges I try when I am bored.
+# CodingChallenges
+## Here you will find solutions to several coding challenges I tried when I was a little bored.
